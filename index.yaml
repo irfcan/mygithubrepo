@@ -3,7 +3,7 @@ entries:
   irfan-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-09-28T09:42:58.238018979Z"
+    created: "2026-09-28T09:59:38.876817015Z"
     description: A Helm chart for Kubernetes
     digest: 3af36257b4c4b3688f75efe2796ec9b62001d98339d8fe3ebea7205f462559cc
     name: irfan-chart
@@ -11,4 +11,15 @@ entries:
     urls:
     - irfan-chart-0.1.1.tgz
     version: 0.1.1
-generated: "2026-09-28T09:42:58.236925762Z"
+  second-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-09-28T09:59:38.87781212Z"
+    description: A Helm chart for Kubernetes
+    digest: 0389731a4a7a18b5306d95e21710da1a5bf478699620ab755e20053c176b7559
+    name: second-chart
+    type: application
+    urls:
+    - second-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-09-28T09:59:38.875763739Z"
